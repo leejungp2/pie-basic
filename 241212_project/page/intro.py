@@ -13,8 +13,8 @@ def app():
 
 	st.header("About the Project")
 	st.write("""
-    이 앱은 Streamlit과 Python을 사용하여 데이터 분석 및 시각화 기술을 학습하기 위해 개발되었습니다. 
-    Disney 데이터를 다루며 실습을 통해 주요 데이터 처리 기술을 익힐 수 있습니다.
+    이 웹사이트는 Streamlit과 Python을 사용하여 데이터 분석 및 시각화 기술을 학습하기 위해 개발되었습니다. 
+    Disney 데이터를 다루는 실습을 통해 주요 데이터 처리 기술을 익힐 수 있습니다.
        - 본 웹사이트는 Kaggle의 'Disney+ Movies and TV Shows' 데이터를 사용하였습니다. : https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows?resource=download
     """)
  
